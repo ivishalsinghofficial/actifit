@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {FormGroup, Alert, FormControl, Form, ButtonGroup, Button, ControlLabel,  InputGroup, InputGroupAddon, InputGroupText, Input, HelpBlock} from 'react-bootstrap';
+import {FormGroup, FormControl, ControlLabel,  InputGroup} from 'react-bootstrap';
 import './Feedback.css';
 
 
