@@ -7,12 +7,12 @@ var firebase = require('firebase');
 var uuid = require('uuid');
 
 var config = {
-   apiKey: "AIzaSyDc_Xn-rnagiDvN8PQxTMnargfCu7EC1o0",
-   authDomain: "actifit-a4b14.firebaseapp.com",
-   databaseURL: "https://actifit-a4b14.firebaseio.com",
-   projectId: "actifit-a4b14",
-   storageBucket: "actifit-a4b14.appspot.com",
-   messagingSenderId: "766049299997"
+   apiKey: "put yours",
+   authDomain: "put yours",
+   databaseURL: "put yours",
+   projectId: "put yours",
+   storageBucket: "put yours",
+   messagingSenderId: "put yours"
  };
  firebase.initializeApp(config);
 
